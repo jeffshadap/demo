@@ -1,7 +1,9 @@
-[
+{
+  "guests": [
 
   {"name": "test"},
   {"name": "test2"}
 
 
 ]
+}
