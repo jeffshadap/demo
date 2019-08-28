@@ -1,6 +1,8 @@
 {
   "guests": [
   {"name": "test"},
-  {"name": "test2"}
+  {"name": "test2"},
+    {"name": "test3"},
+    {"name": "this is a test"}
 ]
 }
